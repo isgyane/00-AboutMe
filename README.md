@@ -1,34 +1,20 @@
 # 👋 Hi, I'm Isaac G. Somuah  
 
-**`Data & Business Analytics | Machine Learning & AI | Educator`**
+**`Pharmacist → Commercial Analytics → Data Skills Trainer | Founder @ Verken IT & Analytics`**
 
-I bridge data, business, and healthcare to create solutions that drive real impact.
+Pharmacist by training, analyst by practice. I've spent the last 8 years turning messy operational data into growth — from analyzing 3M+ logistics records at Zipline to building the analytics engine behind a 157% revenue increase at Tridem Pharma.
 
-  📊 Skilled in Excel, Power BI, and Python for data analysis & visualization
-  
-  💼 Experienced in business development, IT consulting, and project management
-  
-  💊 Healthcare background as a pharmacist & medical representative, bringing domain expertise to data-driven decisions
-  
-  🚀 Passionate about teaching, problem-solving, and building tools that simplify complex workflows
-  
-  📍 Always learning, always sharing — check out my projects below.
-
-[View My Projects](https://github.com/isgyane?tab=repositories) 🔗👨‍💻  
-
+Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI — grounded in real business problems, not textbook exercises.
 <br><br>
+## What I do  
 
-## 🚀 Skills & Expertise  
-
-- **Data Analytics:** Excel, Power BI, Tableau, SQL, Python, R, Data Visualization, Statistical Analysis & Modelling  
-- **Data Engineering:** ETL Processes, Machine Learning, Business Intelligence Systems  
-- **Business & IT:** CRM systems, eCommerce, ERP systems, IT Support  
-- **Healthcare & Supply Chain:** Pharmacy, Medical Sales, Supply Chain Analytics  
+- Build sales analytics and commercial intelligence tools in the pharmaceutical industry
+- Train analysts and business teams on Excel, SQL, and Power BI
+- Design data-driven reporting systems that replace manual processes
 <br><br>
 
 
-## 🛠️ Languages & Tools  
-
+## Languages & Tools  
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; line-height:0;">
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -42,19 +28,14 @@ I bridge data, business, and healthcare to create solutions that drive real impa
   <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 </div>
 
-<br><br><br>
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img alt="my_stats" src="https://github-readme-stats.vercel.app/api?username=isgyane&show_icons=true&theme=radical" width="45%" style="margin-right: 5%;"/>
-  <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgyane&layout=compact" width="45%" style="margin-left: 5%;"/>
-</p>
 <br><br>
+**Tools I work with**:
+Excel (Power Query, dashboards) · SQL Server · Power BI (PL-300 certified) · Python
 
+[**Featured Projects**](https://github.com/isgyane?tab=repositories) 🔗👨‍💻  
 
+<br><br>
 ## 🌐 Connect With Me  
-
 <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -70,11 +51,7 @@ I bridge data, business, and healthcare to create solutions that drive real impa
 
 <br><br>
 
-If you have a project or role that you'd like to discuss, feel free to reach out!
 
-
-## 🎨 Fun Facts  
-
-- 🎹 I play the piano for relaxation.  
-- 🎮 I enjoy gaming in my free time.  
+## Fun Fact
+- When I'm not in the data, I'm at the piano.  
 
