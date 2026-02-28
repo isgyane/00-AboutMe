@@ -2,9 +2,9 @@
 
 **`Pharmacist → Commercial Analytics → Data Skills Trainer | Founder @ Verken IT & Analytics`**
 
-Pharmacist by training, analyst by practice. I've spent the last 8 years turning messy operational data into growth — from analyzing 3M+ logistics records at Zipline to building the analytics engine behind a 157% revenue increase at Tridem Pharma.
+Pharmacist by training, analyst by practice. I've spent the last 8 years turning messy operational data into growth - from analyzing 3M+ logistics records at Zipline to building the analytics engine behind a 157% revenue increase at Tridem Pharma.
 
-Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI — grounded in real business problems, not textbook exercises.
+Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI - grounded in real business problems, not textbook exercises.
 <br><br>
 ## What I do  
 
