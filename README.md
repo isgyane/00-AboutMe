@@ -7,7 +7,7 @@ Pharmacist by training, analyst by practice. I've spent the last 8 years turning
 Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI - grounded in real business problems.
 
 
-[**Featured Projects**](https://github.com/isgyane?tab=repositories&q=&type=public&language=&sort=stargazers) 🔗
+[**Featured Projects**](https://github.com/isgyane?tab=repositories&q=&type=public&language=&sort=name) 🔗
 <br><br>
 ## What I do  
 
