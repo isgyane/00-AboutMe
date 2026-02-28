@@ -16,7 +16,7 @@ Now I teach what I've learned. Through Verken IT & Analytics, I train profession
 **Tools I work with**:
 Excel (Power Query, dashboards) · SQL Server · Power BI (PL-300 certified) · Python
 
-[**Featured Projects**](https://github.com/isgyane?tab=repositories) 🔗👨‍💻  
+[**Featured Projects**](https://github.com/isgyane?tab=repositories&q=&type=public&language=&sort=stargazers) 🔗👨‍💻  
 <br><br>
 ## 🌐 Let's Connect  
 <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank" style="margin-right: 10px;">
