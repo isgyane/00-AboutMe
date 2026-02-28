@@ -2,9 +2,12 @@
 
 **`Pharmacist → Commercial Analytics → Data Skills Trainer | Founder @ Verken IT & Analytics`**
 
-Pharmacist by training, analyst by practice. I've spent the last 8 years turning messy operational data into growth - from analyzing 3M+ logistics records at Zipline to building the analytics engine behind a 157% revenue increase at Tridem Pharma.
+Pharmacist by training, analyst by practice. I've spent the last 8 years turning messy operational data into growth - from analyzing 3M+ logistics records at Zipline to building the analytics engine that contributed to 157% revenue increase at Tridem Pharma.
 
-Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI - grounded in real business problems, not textbook exercises.
+Now I teach what I've learned. Through Verken IT & Analytics, I train professionals and students to think with data using Excel, SQL, and Power BI - grounded in real business problems.
+
+
+[**Featured Projects**](https://github.com/isgyane?tab=repositories&q=&type=public&language=&sort=stargazers) 🔗
 <br><br>
 ## What I do  
 
@@ -15,8 +18,7 @@ Now I teach what I've learned. Through Verken IT & Analytics, I train profession
 
 **Tools I work with**:
 Excel (Power Query, dashboards) · SQL Server · Power BI (PL-300 certified) · Python
-
-[**Featured Projects**](https://github.com/isgyane?tab=repositories&q=&type=public&language=&sort=stargazers) 🔗👨‍💻  
+  
 <br><br>
 ## 🌐 Let's Connect  
 <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank" style="margin-right: 10px;">
